@@ -1,0 +1,10 @@
+
+"name": "Arno/Shae",
+"image" : "img/avatar.png",
+"bio": "Recent Volt recruit, does data & stuff",
+"social": [
+    { "twitter": "https://twitter.com/arno_shae" },
+    { "mail": "mailto//:mail@arnov.dev"}
+    { "github": "https://github.com/arnos-stuff" },
+]
+}
